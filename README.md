@@ -14,7 +14,7 @@ Twitch integration for Klei's Oxygen Not Included.
 - In the event of a tie, the effect should be chosen at random
 
 Voting overlay example
-![Voting overlay example](https://raw.githubusercontent.com/ZPanic0/oni-twitch/master/docs/img/overlay-example.png)
+![Voting overlay example](https://github.com/ZPanic0/oni-twitch/blob/master/docs/img/overlay-example.png)
 
 Tutorial messages section
-![Tutorial messages section](https://raw.githubusercontent.com/ZPanic0/oni-twitch/master/docs/img/tutorial-messages-section.png)
+![Tutorial messages section](https://github.com/ZPanic0/oni-twitch/blob/master/docs/img/tutorial-messages-section.png)
